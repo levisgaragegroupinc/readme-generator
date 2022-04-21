@@ -166,7 +166,6 @@ inquirer
         name: 'email',
       },
 
-
   ])
   .then((data) => {
     console.log(data);
