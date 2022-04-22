@@ -172,7 +172,7 @@ inquirer
     const readmeData = generateReadme(data);
 
 // Write file 
-    fs.writeFile("readme.md", readmeData, (err) => 
+    fs.writeFile("readme_example.md", readmeData, (err) => 
             err ? console.error(err) : console.log("Successfully created readme!")
     );
   });
