@@ -18,8 +18,20 @@ Install Inquirer package: [Inquirer](https://www.npmjs.com/package/inquirer).
 
 # Usage
 
-Use this program to generate readme files for your projects.
+Use this program to generate readme files for your projects. The readme outline includes an index and several license options to choose from including: Apache, GNU, ISC, MIT, Mozilla, Open, and None. The program asks for the following information:
+ - Title
+ - Description
+ - Installation
+ - Usage
+ - image file name
+ - Credits
+ - License
+ - Features
+ - Contribute
+ - Tests
+ - github username
+ - contact email
 
 ## Credits
 
-Credits to Node.js, and mainainers of the Inquirer package and related packages. 
+Credits to Node.js, and mainainers of the Inquirer package and related packages. Also to [shields.io](https://shields.io/) for hosting the license badge URLs.
